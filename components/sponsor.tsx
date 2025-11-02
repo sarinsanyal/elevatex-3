@@ -15,6 +15,16 @@ const sponsors: Sponsor[] = [
     id: "1",
     name: "Jamboree",
     src: "/sponsors/jamboree-logo.png"
+  },
+  {
+    "id": "2",
+    "name": "Erudite",
+    "src": "/sponsors/erudite-logo.jpg",
+  },
+  {
+    "id": "3",
+    "name": "InnovateX",
+    "src": "/sponsors/tough_tongue.jpeg",
   }
 ];
 
@@ -48,7 +58,7 @@ export default function Sponsors() {
                 key={`${s.id}-${idx}`}
                 href={s.url ?? "#"}
                 target="_blank"
-                className="flex items-center justify-center px-8 py-6"
+                className="flex-shrink-0 flex items-center justify-center px-8 py-6"
                 aria-label={s.name}
               >
                 <Image
@@ -56,7 +66,7 @@ export default function Sponsors() {
                   height={200} width={200}
                   alt={s.name}
                   loading="lazy"
-                  className="w-auto h-16 min-h-[128px] min-w-[64px] sm:h-28 md:h-32 object-contain"
+                  className="w-full h-16 min-h-[128px] min-w-[64px] sm:h-28 md:h-32 object-contain"
                 />
               </a>
             ))}
