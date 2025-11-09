@@ -47,6 +47,12 @@ const Speakers: React.FC = () => {
       url: "https://www.linkedin.com/in/rahul-halder-95a7ab147/",
       designation: "Associate Consultant @ PWC"
     },
+    {
+      image: "/speakers/pani_da.jpg",
+      name: "Saptarshi Pani",
+      url: "https://www.linkedin.com/in/panisap/",
+      designation: "Chief Data and Research Scientist @ Alchemyst AI"
+    },
     
   ];
 
