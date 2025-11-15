@@ -19,7 +19,10 @@ const imageUrls = [
   '/speakers/rahul.jpeg',
   '/speakers/raman.jpg',
   '/speakers/sayandeep.jpeg',
-  '/speakers/soumyadeep.jpeg'
+  '/speakers/soumyadeep.jpeg',
+  '/speakers/pani_da.jpg',
+  '/speakers/ansh.jpg',
+  '/speakers/punit.jpg',
 ]
 
 export function CarouselPlugin() {
