@@ -50,7 +50,7 @@ const Speakers: React.FC = () => {
     {
       image: "/speakers/ansh.jpg",
       name: "Ansh Sarkar",
-      url: "https://www.linkedin.com/in/panisap/",
+      url: "https://www.linkedin.com/in/ansh-sarkar/",
       designation: "Angle Mentor C4GT'25, Mentee C4GT'22, Intern- MITACS, IISc, LinkedIn"
     },
     {
