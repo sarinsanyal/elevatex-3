@@ -6,7 +6,9 @@ const seminars = [
   { title: "CareerOS: Building Resume_Placement.exe", img: "/speaker.png", speaker:"Sayandeep Sarkar", date: "2/11/2025", timing: "7:30pm to 8:30pm" },
   { title: "The Big Data Equation: Thinking Beyond Spreadsheets", img: "/speaker.png", speaker:"Rahul Halder", date: "8/11/2025", timing: "7:00pm to 8:00pm" },
   { title: "Sakura Opportunities: Scholarships and SDEs in Japan", img: "/speaker.png", speaker:"Nandini Bagga", date: "9/11/2025", timing: "7:00pm to 8:00pm" },
+  { title: "AI/Ml:  Mind over Model - A Deep-Learning-Dive into AI and ML", img: "/speaker.png", speaker:"Saptarshi Pani", date: "15/11/2025", timing: "7:00pm to 8:00pm" },
   { title: "Let's Git Going: Sneak Peek Into Open Source", img: "/speaker.png", speaker:"Ansh Sarkar", date: "16/11/2025", timing: "7:00pm to 8:00pm" },
+  { title: "Decode UI/UX", img: "/speaker.png", speaker:"Punit Chawla", date: "18/11/2025", timing: "7:00pm to 8:00pm" },
 ];
 
 export default function Schedule() {

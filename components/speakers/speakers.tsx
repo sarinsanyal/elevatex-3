@@ -47,6 +47,18 @@ const Speakers: React.FC = () => {
       url: "https://www.linkedin.com/in/panisap/",
       designation: "Chief Data and Research Scientist @ Alchemyst AI"
     },
+    {
+      image: "/speakers/ansh.jpg",
+      name: "Ansh Sarkar",
+      url: "https://www.linkedin.com/in/panisap/",
+      designation: "Angle Mentor C4GT'25, Mentee C4GT'22, Intern- MITACS, IISc, LinkedIn"
+    },
+    {
+      image: "/speakers/punit.jpg",
+      name: "Punit Chawla",
+      url: "https://youtube.com/@punitchawla?si=FbP6lm6Ke5LgnR3c",
+      designation: "Founder, Designwings UX/UI School"
+    },
     
   ];
 
